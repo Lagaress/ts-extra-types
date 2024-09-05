@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env
+
+# Package lock file
+package-lock.json

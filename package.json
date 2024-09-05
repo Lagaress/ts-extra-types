@@ -1,0 +1,43 @@
+{
+  "name": "ts-extra-types",
+  "version": "1.0.0",
+  "description": "Utility TypeScript types to enhance type safety and development productivity.",
+  "main": "./dist/index.js",
+  "author": {
+    "name": "Jesús Lagares",
+    "email": "jesuslagaresgalan@gmail.com",
+    "url": "https://github.com/Lagaress"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "jest"
+  },
+  "types": "./dist/index.d.ts",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "types",
+    "utility",
+    "utilities",
+    "utility-types",
+    "type-safety",
+    "conditional-types",
+    "mapped-types",
+    "atleastone",
+    "requireonlyone",
+    "pickoptional",
+    "excludenullish",
+    "allornone",
+    "requireatmostone",
+    "oneormore",
+    "exactlytwo",
+    "exactlyn",
+    "mutuallyexclusive",
+    "defaultrequired",
+    "conditionalrequired"
+  ]
+}
