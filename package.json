@@ -13,6 +13,10 @@
     "build": "tsc -p .",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lagaress/ts-extra-types.git"
+  },
   "types": "./dist/index.d.ts",
   "devDependencies": {
     "typescript": "^5.5.4"
