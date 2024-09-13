@@ -38,7 +38,5 @@ Click the utility name for more information
 - **[`AllOrNone`](https://github.com/Lagaress/ts-extra-types/tree/main/src/types/AllOrNone.ts)**: Requires either all specified properties to be present or none of them.
 - **[`RequireAtMostOne`](https://github.com/Lagaress/ts-extra-types/tree/main/src/types/RequireAtMostOne.ts)**: Allows at most one property from the given set of keys to be present.
 - **[`OneOrMore`](https://github.com/Lagaress/ts-extra-types/tree/main/src/types/OneOrMore.ts)**: Requires at least one property from the given type to be present.
-- **[`ExactlyN`](https://github.com/Lagaress/ts-extra-types/tree/main/src/types/ExactlyN.ts)**: Requires exactly N properties from the given set of keys to be present.
 - **[`MutuallyExclusive`](https://github.com/Lagaress/ts-extra-types/tree/main/src/types/MutuallyExclusive.ts)**: Ensures that only one of the two specified properties can be present at a time.
 - **[`DefaultRequired`](https://github.com/Lagaress/ts-extra-types/tree/main/src/types/DefaultRequired.ts)**: Makes specified properties required with a default type.
-- **[`ConditionalRequired`](https://github.com/Lagaress/ts-extra-types/tree/main/src/types/ConditionalRequired.ts)**: Makes properties required based on a condition.
