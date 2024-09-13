@@ -3,8 +3,8 @@
 
 [📖 Documentation](https://github.com/Lagaress/ts-extra-types?tab=readme-ov-file/) ·
 [📣 Announcements](https://github.com/Lagaress/ts-extra-types/issues) ·
-[🐞 Report Bug](https://github.com/Lagaress/ts-extra-types/issues/new?template=---bug-report.md) ·
-[🍩 Request Feature](https://github.com/Lagaress/ts-extra-types/issues/new?template=---feature-request.md) ·
+[🐞 Report Bug](https://github.com/Lagaress/ts-extra-types/issues/new?template=bug-report.md) ·
+[🍩 Request Feature](https://github.com/Lagaress/ts-extra-types/issues/new?template=feature-request.md) ·
 
 ## About
 
